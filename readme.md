@@ -1,4 +1,4 @@
-# CSS Support Tools
+# CSS SQL Support Tools
 
 This repro contains links to various tools developed and used by Microsoft SQL Server support.
 
@@ -7,3 +7,7 @@ This repro contains links to various tools developed and used by Microsoft SQL S
 
 ## [SQL Nexus] (http://sqlnexus.codeplex.com/)
    This is data analysis tool. It analyzes data collected by [pssdiag](https://github.com/Microsoft/DiagManager).
+
+
+License
+see license.md
